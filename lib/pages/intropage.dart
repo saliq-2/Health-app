@@ -47,7 +47,7 @@ class intropage extends StatelessWidget
                       fontWeight: FontWeight.bold,),),
                   ),
                   SizedBox(height: 30,),
-                  Text("  Healthhsismi is the baest for you and for your family",style: TextStyle(color: Colors.white,fontWeight: FontWeight.w200),),
+                  Text("  HealthShimi is the baest for you and for your family",style: TextStyle(color: Colors.white,fontWeight: FontWeight.w200),),
 
 
 
